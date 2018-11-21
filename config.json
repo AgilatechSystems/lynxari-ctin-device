@@ -1,0 +1,8 @@
+{
+    "streamPeriod":60000,
+    "devicePoll":10000,
+    "current_range":50,
+    "deltaPercent":0.1,
+    "maxCurrent": 127.3,
+    "calibration": 3
+}
